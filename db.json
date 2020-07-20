@@ -1,0 +1,14 @@
+{
+  "psychology": [
+    {
+      "id": 1,
+      "name": "Dr. Choudhary"
+    }
+  ],
+  "orthopaedics": [
+	{
+		"id":1,
+    "name": "Dr. Miller"
+  }
+	]
+}
