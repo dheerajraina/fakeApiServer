@@ -1,4 +1,8 @@
 {
+  "departments":[
+	  { "id":1,"name":"psychology"},
+	  { "id":2,"name":"orthopaedics"}
+  ],
   "psychology": [
     {
       "id": 1,
